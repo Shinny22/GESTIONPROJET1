@@ -1,0 +1,82 @@
+**I- Introduction**
+
+*Contexte :*
+
+La République du Congo, spécifiquement Brazzaville, fait face à des défis persistants en matière de santé maternelle et infantile. Malgré les efforts, le taux de mortalité mère-enfant demeure préoccupant. Cette situation souligne la nécessité d'initiatives spécifiques pour réduire ces taux et améliorer la santé globale de la population.
+
+*Justification :*
+
+La réduction de la mortalité mère-enfant est cruciale pour le développement durable et le bien-être de la société congolaise. Ce projet vise à sauver des vies, améliorer la qualité des soins maternels et infantiles, et contribuer à la réalisation des objectifs de développement durable.
+
+**II- Objectif du Projet**
+
+*Objectif Principal :*
+
+Réduire le taux de mortalité mère-enfant à Brazzaville de manière significative d'ici à [année cible].
+
+*Objectifs Spécifiques :*
+
+1. Améliorer l'accès aux soins prénatals de qualité pour les femmes enceintes à Brazzaville.
+2. Renforcer les capacités des professionnels de la santé locaux pour la prise en charge des complications obstétricales et pédiatriques.
+3. Sensibiliser la population de Brazzaville aux bonnes pratiques en matière de santé maternelle et infantile.
+
+**III- Analyse de la Situation**
+
+*État Actuel :*
+
+Selon l'enquête MICS 2014-2015, le taux de mortalité néonatale est de 21%, le taux de mortalité infantile est de 36%, et le taux de mortalité infanto-juvénile est de 52% avec un taux brut de natalité de 41,7%. Le taux de mortalité maternelle est de 436 décès pour 100 000 naissances vivantes selon la même enquête.
+
+Le rapport 2020 de la Banque mondiale estime le taux de mortalité maternelle à 378 décès pour 100 000 naissances vivantes. Selon le rapport de surveillance des décès maternels, néonataux et infantiles (DMNI) de 2022, le ratio de mortalité maternelle est estimé à 414 décès pour 100 000 naissances vivantes.
+
+*Facteurs de Risque :*
+
+Les principales causes de décès maternel chez la mère incluent l'hémorragie (55%) et l'éclampsie (19,5%), selon les données du DMNI.
+
+**IV- Causes des Précédentes Analyses**
+
+Les analyses antérieures ont identifié plusieurs causes de décès mère-enfant à Brazzaville, notamment l'hémorragie, placenta praevia, HRP, rupture utérine, éclampsie, infection embolie, VIH, l'alimentation, prise d'alcool et cigarette, stupéfiants, hypertension, malnutrition infantile, complication anesthésique et autres causes. Les principales causes de décès maternel sont l'hémorragie (55%) et l'éclampsie (19,5%).
+
+**V- Stratégie d'Intervention ou Approche de Solution**
+
+*Sensibilisation et Éducation :*
+
+- Développer des programmes éducatifs sur les principales causes de décès maternel, mettant l'accent sur l'hémorragie et l'éclampsie.
+- Collaborer avec les écoles, les organisations communautaires et les médias pour diffuser des messages éducatifs ciblés.
+
+*Renforcement des Systèmes de Santé :*
+
+- Investir dans la formation continue des professionnels de la santé pour améliorer la prise en charge des complications obstétricales.
+- Améliorer l'infrastructure des établissements de santé pour garantir des services de qualité.
+
+*Suivi et Évaluation :*
+
+- Mettre en place des systèmes de suivi pour mesurer l'impact des interventions sur les principales causes de décès maternel.
+- Effectuer des évaluations régulières pour ajuster les stratégies en fonction des résultats obtenus.
+
+**VI- Budgétisation**
+
+Établir un budget détaillé qui prend en compte les coûts spécifiques à Brazzaville, notamment ceux liés à la sensibilisation aux facteurs de risque locaux, à la formation adaptée aux besoins spécifiques de la population, et à l'amélioration des infrastructures en vue de traiter efficacement l'hémorragie et l'éclampsie.
+
+**VII- Plan de Mise en Œuvre**
+L'offre des soins et services de santé maternelle et infantille est organisée à trvaers les trois niveaux de soins suivant la pyramide sanitaire:Niveau primaire,secondaire et tertiaire.
+En fonction du niveau de soin un paquet de soins de servics est offert
+
+*Offre de Soins et Services de Santé Maternelle et Infantile :*
+
+- **Niveau Primaire :**
+  - Planification familiale.
+  - Soins prénatals et postnataux.
+  - Accouchement assisté.
+  - Vaccination.
+  - Soins essentiels du nouveau-né.
+  - Prise en charge intégrée des maladies du nouveau-né et de l'enfant (PCIMNE).
+  - Soins obstétricaux et néonatals de base (SONUB).
+
+- **Niveau Secondaire :**
+  - Renforcement des hôpitaux de base avec un accent particulier sur la prise en charge des complications obstétricales et pédiatriques.
+
+- **Niveau Tertiaire (Hôpitaux Généraux et CHU) :**
+  - Mise en œuvre du paquet complémentaire des activités de santé maternelle et infantile.
+  - Offre de soins spécialisés, y compris les soins obstétricaux et néonatals d'urgence complets (SONUC).
+
+Ce plan, basé sur des données spécifiques à Brazzaville, vise à apporter des améliorations concrètes et durables à la santé maternelle et infantile dans la région.
